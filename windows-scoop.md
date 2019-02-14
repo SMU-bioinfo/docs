@@ -106,3 +106,10 @@ scoop install make
 ## wget for download
 scoop install wget
 ```
+
+## IM
+
+```
+## slack
+scoop install slack
+```
