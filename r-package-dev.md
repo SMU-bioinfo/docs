@@ -13,7 +13,7 @@
 ## example
 + `devtools::create(path="./microproccess")` microproccess 是我命名的包的名字, 这步生成的骨架结构如下图
 ![skeleton](./images/skeletonFigure.png)
- - DESCRIPTION 文件中包含Package的名字, Title, Version, [Author](https://journal.r-project.org/archive/2012-1/RJournal_2012-1_Hornik~et~al.pdf), Description, Depends, License, Encoding.
+ - DESCRIPTION 文件中包含Package的名字, Title, Version, [Author](https://journal.r-project.org/archive/2012-1/RJournal_2012-1_Hornik~et~al.pdf), Description, Depends, License, Encoding, LazyData, LazyData 设为false.
  - NAMESPACE 文件不需要编辑。
  - R 文件夹为存放R函数的地方。这里我放一个droptax函数（一个去除低丰度低频率物种的函数)  
 
