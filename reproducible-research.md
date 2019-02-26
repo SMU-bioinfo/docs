@@ -8,6 +8,8 @@
 + <https://github.com/lauringlab>  
 + [Reproducible Research in Ecology, Evolution, Behaviour, and Environmental Studies](https://github.com/opetchey/RREEBES)
 
++ [Consistent and correctable bias in metagenomic sequencing measurements](https://github.com/mikemc/2019-bias-manuscript)
+
 + <https://github.com/Phylogenetics-Brown-BIOL1425/phylogeneticbiology>
 + <https://github.com/sdwfrost/exploratory-phylodynamics>
 + <http://epicscotland.github.io/PhylodynamicDataSets/index.html>
