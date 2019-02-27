@@ -37,5 +37,13 @@ MacOS的话，需要有`XQuartz`安装（可以通过`Homebrew`），而Windows�
 
 有X server的话，就可以直接ssh -X，然后就可以跑了。
 
+Windows下使用Cmder，用下面指令可以连接：
+
+```
+export DISPLAY=localhost:0.0
+ssh -Y user@IP
+```
+
+
 不过要实现程序挂起，好像得通过VNC才可实现，当然你也可以试一下`TeamViewer`。
 
