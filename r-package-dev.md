@@ -9,8 +9,11 @@
 
 + [itdepends: 优化包的依赖关系](https://github.com/jimhester/itdepends)
 + [profviz: interactive visualization for profiling R code](https://rstudio.github.io/profvis/)
++ [Now You C Me](https://blog.davisvaughan.com/2019/03/02/now-you-c-me/)
+
 
 ## example
+
 + `devtools::create(path="./microproccess")` microproccess 是我命名的包的名字, 这步生成的骨架结构如下图
 ![skeleton](./images/skeletonFigure.png)
  - DESCRIPTION 文件中包含Package的名字, Title, Version, [Author](https://journal.r-project.org/archive/2012-1/RJournal_2012-1_Hornik~et~al.pdf), Description, Depends, License, Encoding, LazyData, LazyData 设为false.
@@ -96,5 +99,6 @@ clean:
 ```
 make
 ```
+
 + 更多的参考资料如下：<http://r-pkgs.had.co.nz/>, <https://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf>, <http://dirk.eddelbuettel.com/papers/r_package_development_nov2014.pdf>, 或者google 搜索 R package development tutorial。
 + 编程开发习惯：<https://style.tidyverse.org>
