@@ -22,6 +22,10 @@
 
 + [Modern Statistics for Modern Biology](https://www-huber.embl.de/msmb/)
 
+## Machine Learning
+
++ [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/)
+
 
 ## Unix
 
