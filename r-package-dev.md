@@ -11,6 +11,10 @@
 + [profviz: interactive visualization for profiling R code](https://rstudio.github.io/profvis/)
 + [Now You C Me](https://blog.davisvaughan.com/2019/03/02/now-you-c-me/)
 
+## tools
+
++ [renv](https://github.com/rstudio/renv): 为开发分离环境
+
 
 ## example
 
