@@ -23,8 +23,9 @@ Linux怎么学？做为一个走了很多弯路的过来人，我推荐尝试在
 
 再者，学Linux的捷径是学习BASH，你不一定用bash，你可以用python，perl等其它的脚本语言，但bash一定要学一点，因为bash是Linux的外壳，不学bash，不足以知Linux。事实上内核是硬件的抽象层，你不需要知道你的数据是怎么写入硬盘的，这是内核要干的事情，而对于我们来说，所谓Linux无非是POSIX和shell。
 
-我看过最好的资料是：
 
++ [The Unix Workbench](https://seankross.com/the-unix-workbench/)
++ [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 + [shell 十三問? ](http://bbs.chinaunix.net/thread-218853-1-1.html)
 + [Bash by example, Part 1](https://www.ibm.com/developerworks/library/l-bash/index.html)
 + [Bash by example, Part 2](https://www.ibm.com/developerworks/library/l-bash2/index.html)
@@ -32,7 +33,6 @@ Linux怎么学？做为一个走了很多弯路的过来人，我推荐尝试在
 
 Bash by Example这三篇是非常好的Bash教学材料，真正做到从入门到精通，最后一篇，用实例构建一个`ebuild`系统！`ebuild`是gentoo的包管理系统，最早期的实验版本是bash的，后来推出gentoo，用python写，现在有人用c++写的（funtoo系统）。这里你可以看到用（简单的）bash可以构建出一个系统，自动化下载、编译、安装包。
 
-另外一个比较新的资料是《[The Unix Workbench](https://seankross.com/the-unix-workbench/)》。
 
 ## Windows
 
