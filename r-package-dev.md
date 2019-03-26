@@ -14,7 +14,7 @@
 ## tools
 
 + [renv](https://github.com/rstudio/renv): 为开发分离环境
-
++ [r-hub for checking R packages](https://blog.r-hub.io/2019/03/26/why-care/)
 
 ## example
 
