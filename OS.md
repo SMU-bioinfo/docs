@@ -30,6 +30,8 @@ Linux怎么学？做为一个走了很多弯路的过来人，我推荐尝试在
 + [Bash by example, Part 1](https://www.ibm.com/developerworks/library/l-bash/index.html)
 + [Bash by example, Part 2](https://www.ibm.com/developerworks/library/l-bash2/index.html)
 + [Bash by example, Part 3](https://www.ibm.com/developerworks/library/l-bash3/index.html)
++ [Introduction to text manipulation on UNIX-based systems](https://www.ibm.com/developerworks/aix/library/au-unixtext/index.html)
+
 
 Bash by Example这三篇是非常好的Bash教学材料，真正做到从入门到精通，最后一篇，用实例构建一个`ebuild`系统！`ebuild`是gentoo的包管理系统，最早期的实验版本是bash的，后来推出gentoo，用python写，现在有人用c++写的（funtoo系统）。这里你可以看到用（简单的）bash可以构建出一个系统，自动化下载、编译、安装包。
 
