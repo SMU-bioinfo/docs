@@ -18,6 +18,11 @@
 + [The tidyverse style guide](https://style.tidyverse.org/)
 + [R Course](http://www.john-ros.com/Rcourse/)
 
+## Single Cell
+
++ [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org/)
+
+
 ## Statistics
 
 + [Modern Statistics for Modern Biology](https://www-huber.embl.de/msmb/)
