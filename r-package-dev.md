@@ -1,3 +1,15 @@
+**未学R，先学打包！**
+
+在技术上先学会写R包，是很重要的，要在学习的最初就学会打包，即使是一个只会打印`hello world`的R包。
+
+好处在于：
+
++ 便于管理、便于分发
++ 强迫自己以功能为单位去组织代码，封装成函数
++ 脚本只是一个简单的workflow，告别又臭又长、难以维护的脚本
+
+----
+
 
 ## skeleton
 
@@ -106,3 +118,4 @@ make
 
 + 更多的参考资料如下：<http://r-pkgs.had.co.nz/>, <https://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf>, <http://dirk.eddelbuettel.com/papers/r_package_development_nov2014.pdf>, 或者google 搜索 R package development tutorial。
 + 编程开发习惯：<https://style.tidyverse.org>
++ [Writing an R package from scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
