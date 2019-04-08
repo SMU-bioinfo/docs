@@ -16,6 +16,8 @@
 + [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/)
 + [The tidyverse style guide](https://style.tidyverse.org/)
 + [R Course](http://www.john-ros.com/Rcourse/)
++ [Building Big Shiny Apps - A Workflow](https://thinkr-open.github.io/building-shiny-apps-workflow/)
+
 
 ## Single Cell
 
