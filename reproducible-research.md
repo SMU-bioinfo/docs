@@ -40,3 +40,6 @@
   across Distinct Murine Gut Microbiomes
   - <https://msystems.asm.org/content/2/4/e00063-17>
   - <https://github.com/SchlossLab/Jenior_Modeling_mSystems_2017>
++ Meta-analysis of fecal metagenomes reveals global microbial signatures that are specific for colorectal cancer.
+  + <https://www.nature.com/articles/s41591-019-0406-6>
+  + <https://github.com/zellerlab/crc_meta>
