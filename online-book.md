@@ -31,7 +31,7 @@
 ## Machine Learning
 
 + [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/)
-
++ [神经网络与深度学习--复旦邱锡鹏](https://nndl.github.io/)
 
 ## Unix
 
