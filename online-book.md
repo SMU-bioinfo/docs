@@ -17,6 +17,7 @@
 + [The tidyverse style guide](https://style.tidyverse.org/)
 + [R Course](http://www.john-ros.com/Rcourse/)
 + [Building Big Shiny Apps - A Workflow](https://thinkr-open.github.io/building-shiny-apps-workflow/)
++ [Advanced R](https://adv-r.hadley.nz/)
 
 
 ## Single Cell
