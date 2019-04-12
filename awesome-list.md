@@ -10,3 +10,4 @@
 + [awesome-cancer-variant-databases](https://github.com/seandavi/awesome-cancer-variant-databases)
 + [teach-r](https://github.com/coatless/teach-r)
 + [deep learning papers](https://github.com/pimentel/deep_learning_papers)
++ [Awesome Programming Books](https://github.com/majikarp/awesome-programming-books)
