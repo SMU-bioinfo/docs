@@ -8,6 +8,8 @@
 + <https://github.com/lauringlab>  
 + [Reproducible Research in Ecology, Evolution, Behaviour, and Environmental Studies](https://github.com/opetchey/RREEBES)
 
++ [Evaluating measures of association for single-cell transcriptomics](https://github.com/skinnider/SCT-MoA)
+
 + [Consistent and correctable bias in metagenomic sequencing measurements](https://github.com/mikemc/2019-bias-manuscript)
 
 + <https://github.com/Phylogenetics-Brown-BIOL1425/phylogeneticbiology>
