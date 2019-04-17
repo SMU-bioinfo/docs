@@ -5,3 +5,4 @@
 + [Sample (Ecology)](https://jonlefcheck.net/)
 + [r-statistics.co](http://r-statistics.co/)
 + [Institute for Digital Research and Education(UCLA)](https://stats.idre.ucla.edu/r/)
++ [Machine Learning in R](https://mlr-org.com/)
