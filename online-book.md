@@ -33,6 +33,7 @@
 
 + [An Introduction to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/)
 + [神经网络与深度学习--复旦邱锡鹏](https://nndl.github.io/)
++ [interpretable-ml-book](https://christophm.github.io/interpretable-ml-book/)
 
 ## Unix
 
