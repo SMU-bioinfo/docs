@@ -9,6 +9,16 @@
 
 ## Linux
 
+<https://www.quora.com/What-Linux-OS-should-I-use/answer/Salil-Wadnerkar>:
+
+It depends on your needs:
+
+1. If you want to dip toes in Linux, without wanting to learn a lot in the beginning, use Ubuntu.
+2. If you want a solid distro, that has zero problems, and may not have the latest software, go with Debian stable.
+3. if you want to learn Linux, without spending a lot of time on a regular basis, use Arch Linux
+4. If you want to interact with your Linux system, and become an expert, use Gentoo
+
+
 首推Arch Linux，用过绝对欲罢不能。用Arch很多人会推荐Manjaro，原因当然是Arch难装，然而我不推荐，因为Manjaro是基于Arch，而不是Arch，软件仓库是有区别的，有点像ubuntu和debian的感觉，而Arch拥有最多最新的软件。
 
 事实上Arch是需要自己安装一遍的，因为在这个过程你会学到很多，并且如果你不能handle安装的话，Arch出问题，你也可能搞不定，所谓能力多大，责任多大，Arch给你自由，你也应该有相应的能力。
