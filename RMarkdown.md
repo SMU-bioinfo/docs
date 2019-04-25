@@ -15,6 +15,11 @@
 + Poster
     - [posterdown](https://github.com/brentthorne/posterdown) 
 
+# online book
+
++ [RMarkdown for Scientists](https://rmd4sci.njtierney.com/)
+
+
 # R Markdown Tutorial
 
 + <http://www.jacolienvanrij.com/Tutorials/tutorialMarkdown.html>
