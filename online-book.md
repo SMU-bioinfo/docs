@@ -11,6 +11,10 @@
 + [Data Integration, Manipulation and Visualization of Phylogenetic Trees](https://yulab-smu.github.io/treedata-book/)
 + [Ordination Methods for Ecologists](http://ordination.okstate.edu/)
 
+## Python
+
++ [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
 ## R
 
 + [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/)

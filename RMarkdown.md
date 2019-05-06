@@ -24,6 +24,7 @@
 
 + <http://www.jacolienvanrij.com/Tutorials/tutorialMarkdown.html>
 + <https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html>
++ [RMarkdown Driven Development (RmdDD)](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/)
 
 # R Markdown questions
 
