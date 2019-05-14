@@ -22,7 +22,7 @@
 + [R Course](http://www.john-ros.com/Rcourse/)
 + [Building Big Shiny Apps - A Workflow](https://thinkr-open.github.io/building-shiny-apps-workflow/)
 + [Advanced R](https://adv-r.hadley.nz/)
-
++ [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/)
 
 ## Genomics
 
