@@ -24,6 +24,11 @@
 + [Advanced R](https://adv-r.hadley.nz/)
 
 
+## Genomics
+
++ [Computational Genomics with R](https://compgenomr.github.io/book/)
+
+
 ## Single Cell
 
 + [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org/)

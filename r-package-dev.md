@@ -118,4 +118,5 @@ make
 
 + 更多的参考资料如下：<http://r-pkgs.had.co.nz/>, <https://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf>, <http://dirk.eddelbuettel.com/papers/r_package_development_nov2014.pdf>, 或者google 搜索 R package development tutorial。
 + 编程开发习惯：<https://style.tidyverse.org>
++ [Beautify your R code](https://beautifyrstats.netlify.com/)
 + [Writing an R package from scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
