@@ -54,3 +54,4 @@
 
 + [数据可视化入门教程](https://www.yuque.com/mo-college/beginner-tutorial)
 + [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
++ [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/index.html)
