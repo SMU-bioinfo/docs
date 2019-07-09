@@ -120,3 +120,4 @@ make
 + 编程开发习惯：<https://style.tidyverse.org>
 + [Beautify your R code](https://beautifyrstats.netlify.com/)
 + [Writing an R package from scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
++ <https://rstd.io/pkg-dev>
