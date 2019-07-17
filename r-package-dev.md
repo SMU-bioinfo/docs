@@ -28,6 +28,11 @@
 + [renv](https://github.com/rstudio/renv): 为开发分离环境
 + [r-hub for checking R packages](https://blog.r-hub.io/2019/03/26/why-care/)
 
+## OO
+
++ [S4: a short guide for the perplexed](https://stuartlee.org/post/content/post/2019-07-09-s4-a-short-guide-for-perplexed/)
+
+
 ## example
 
 + `devtools::create(path="./microproccess")` microproccess 是我命名的包的名字, 这步生成的骨架结构如下图

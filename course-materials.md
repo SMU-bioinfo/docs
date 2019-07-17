@@ -13,4 +13,3 @@
 + [Introduction to the microbiome R package](https://microbiome.github.io/microbiome/)
 + <http://stephens999.github.io/fiveMinuteStats/>
 	- <https://github.com/stephens999/fiveMinuteStats>
-+ [Bioconductor 2018 Workshop](https://bioconductor.github.io/BiocWorkshops/)    
