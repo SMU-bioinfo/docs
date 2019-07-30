@@ -55,6 +55,9 @@
 + [数据可视化入门教程](https://www.yuque.com/mo-college/beginner-tutorial)
 + [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 + [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/index.html)
++ [An interactive graphing library for R](https://github.com/ropensci/plotly)
++ [The Grammar of Graphics in JavaScript](https://github.com/antvis/g2)
++ [experiments with R and g2](https://github.com/g2inR/g2r)
 
 
 ## Thinking with Data
