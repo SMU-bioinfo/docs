@@ -58,7 +58,7 @@
 + [An interactive graphing library for R](https://github.com/ropensci/plotly)
 + [The Grammar of Graphics in JavaScript](https://github.com/antvis/g2)
 + [experiments with R and g2](https://github.com/g2inR/g2r)
-
++ [Analytical Web Apps for Python. No JavaScript Required](https://dash-gallery.plotly.host/Portal)
 
 ## Thinking with Data
 
