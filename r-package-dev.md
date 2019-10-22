@@ -27,6 +27,8 @@
 
 + [renv](https://github.com/rstudio/renv): 为开发分离环境
 + [r-hub for checking R packages](https://blog.r-hub.io/2019/03/26/why-care/)
++ [Give advice about good practices when building R packages](https://github.com/MangoTheCat/goodpractice)
++ [IN PROGRESS Draw control flow diagrams of function code](https://github.com/moodymudskipper/funflow)
 
 ## OO
 
