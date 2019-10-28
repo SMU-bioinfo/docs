@@ -8,3 +8,5 @@
 ## Tool collection
 
 + [Tools for analysis of single-cell RNA-seq data](https://www.scrna-tools.org/)
+
++ [Survival analysis](https://bioconnector.github.io/workshops/r-survival.html)

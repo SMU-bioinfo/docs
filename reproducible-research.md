@@ -45,3 +45,8 @@
 + Meta-analysis of fecal metagenomes reveals global microbial signatures that are specific for colorectal cancer.
   + <https://www.nature.com/articles/s41591-019-0406-6>
   + <https://github.com/zellerlab/crc_meta>
+
++ Evaluating measures of association for single-cell transcriptomics 
+  - <https://github.com/skinnider/SCT-MoA>
+  - <https://github.com/skinnider/dismay>
+  - <https://www.nature.com/articles/s41592-019-0372-4>

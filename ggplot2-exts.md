@@ -1,1 +1,2 @@
 + [geom_pointdensity(): A Cross Between a Scatter Plot and a 2D Density Plot. ](https://github.com/LKremer/ggpointdensity)
++ [gghalves](https://github.com/erocoar/gghalves): Easy half-half geoms in ggplot2 
