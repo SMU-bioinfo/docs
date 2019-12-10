@@ -22,6 +22,7 @@
 + [itdepends: 优化包的依赖关系](https://github.com/jimhester/itdepends)
 + [profviz: interactive visualization for profiling R code](https://rstudio.github.io/profvis/)
 + [Now You C Me](https://blog.davisvaughan.com/2019/03/02/now-you-c-me/)
++ [proffer: The proffer package profiles R code to find the slow parts](https://github.com/wlandau/proffer)
 
 ## tools
 
