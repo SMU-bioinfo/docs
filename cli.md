@@ -15,3 +15,15 @@
 MacOS的`open`和Linux的`xdg-open`都可以打开别的文件，在使用了一段时间的Windows之后，还是无比想念`open`这个指令，后来我发现Windows中也有同样的指令，叫`start`，于是又可以很爽快地在终端中打开文件了，然后我也更新了`rvcheck::o()`函数，如果`o()`则打开目录，而`o(文件名)`则打开文件。
 
 
+## 压缩PDF
+
+用gs效果比imagemagick要好。
+
+```
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 \
+    -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH \
+    -sOutputFile=output.pdf input.pdf
+```
+
+不加`-dPDFSETTINGS`参数的话，使用默认的`-dPDFSETTINGS=/prepress`，文件会稍大一点，文件最小的应该是使用`-dPDFSERRINGS=/screen`，但PDF效果可能很差。
+
