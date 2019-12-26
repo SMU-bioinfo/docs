@@ -53,3 +53,6 @@
 
 
   + [cell type clustering resolution using single nucleus and single cell RNA-sequencing data](https://github.com/AllenInstitute/NucCellTypes)
+
+
+  + <https://github.com/gymreklab/gtex-estrs-paper>
