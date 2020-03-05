@@ -11,3 +11,4 @@
 + [teach-r](https://github.com/coatless/teach-r)
 + [deep learning papers](https://github.com/pimentel/deep_learning_papers)
 + [Awesome Programming Books](https://github.com/majikarp/awesome-programming-books)
++ [List of software/websites/databases/papers for genome engineering](https://github.com/davidliwei/awesome-CRISPR)
