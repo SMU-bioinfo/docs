@@ -53,8 +53,13 @@ Windows也是推荐的，毕竟国内的环境，有时候不投降不行。而�
 
 我试用了WSL，把Ubuntu子系统换成了Arch，但是我生成的ssh key，无法连接到github，用`ssh -T git@github.com`测试，根本找不到github在那里，所以很可能在WSL是无法ssh的，要在Windows主系统下才行。这让我很不爽，而弃坑（如果我错了请指出）。
 
+用`Ubuntu`做子系统的话是可以的。
+
++ [干掉WSL中的原谅色](https://mp.weixin.qq.com/s/0FPIg0Xbfi1vixxzDwlj5A)
+
 
 传统做法，当然你可以用虚拟机，WSL之所以受欢迎就是不想切换到虚拟机，然而WSL必定也没有虚拟机这种全面支持，必定也有些限制。
+
 
 
 那么就只能找原生的bash了，[Git for Windows](https://gitforwindows.org/)就提供了一个bash；Emacs自身也是带有`shell`和`eshell`的，都可以用，但bash真的可以干的事情太少，太多的指令是缺失的（没错，你在shell里用的很多命令都不是shell自己本身的）。
@@ -89,3 +94,8 @@ MKLINK [[/D] | [/H] | [/J]] Link Target
 mklink /D C:\Users\YGC\github D:\github
 ```
 
+## 软件安装
+
+软件安装记得找镜像源。
+
++[配置好各种镜像源，安装速度快过你单身十几年的手速，拒绝龟速](https://mp.weixin.qq.com/s/FcTwPrLS-BMgOy414vp-dg)
