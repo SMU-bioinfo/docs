@@ -56,3 +56,11 @@
 
 
   + <https://github.com/gymreklab/gtex-estrs-paper>
+
++ Temperature-dependent changes to host-parasite interactions alter the thermal performance of a bacterial host
+  + <https://www.biorxiv.org/content/10.1101/554717v1>
+  + <https://github.com/padpadpadpad/Padfield_2019_ISME_bact_phage_temperature>
+
++ Computational approaches to predict bacteriophage–host relationships
+  + <https://academic.oup.com/femsre/article/40/2/258/2570202>
+  + <https://github.com/linsalrob/PhageHosts>
