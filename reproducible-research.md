@@ -12,6 +12,7 @@
 
 + [Consistent and correctable bias in metagenomic sequencing measurements](https://github.com/mikemc/2019-bias-manuscript)
 
++ [Temporal and Spatial Variation of the Human Microbiota during Pregnancy](http://statweb.stanford.edu/~susan/papers/PNASRR.html)
 + <https://github.com/Phylogenetics-Brown-BIOL1425/phylogeneticbiology>
 + <https://github.com/sdwfrost/exploratory-phylodynamics>
 + <http://epicscotland.github.io/PhylodynamicDataSets/index.html>
