@@ -248,7 +248,7 @@ lapply(p1$layers, function(x) class(x$geom))
 ```
 ![](./images/ModifyGgplot11.png) 
 
-用gginnards::gginnards把相应图层删除
+用gginnards::delete_layers把相应图层删除
  
 ```r
  p2 + geom_node_text(size = 2, aes_(label = ~name))
