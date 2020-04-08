@@ -1,4 +1,5 @@
 1. 用`SSH`连接`github`
+
 ======================
 
 1.1 检查`SSH`是否存在
@@ -38,6 +39,7 @@
 如果出现`Hi username! You've successfully authenticated, but GitHub does not provide shell access`则表示成功,如果出现`Permission denied (publickey)`类似信息，[参考这个](https://help.github.com/en/github/authenticating-to-github/error-permission-denied-publickey)
 
 2. 生成gitee公匙
+
 ================
 
 2.1 生成公匙文件
@@ -50,6 +52,7 @@
 接着复制`gitee_id_rsa.pub`文件内容到`gitee`个人设置的`SSH公匙`下添加即可。
 
 3. 生成config文件
+
 =================
 
 添加如下信息在`~/.ssh/config`中
@@ -66,11 +69,13 @@
     IdentityFile ~/.ssh/gitee_id_rsa
 
 4. 加速下载`github`中的仓库
+
 ===========================
 
 要想快速下载`github`中的仓库，配置好后就可以先在网页右上角的加号`+`下选择从`github`中导入，然后`gitee`可以去拉`github`的目标仓库，网速会比较快，接着再通过`git clone`操作`clone`到本地。从而实现在大陆下载`github`中的仓库过慢的问题。
 
-4. reference
+5. reference
+
 ============
 
 [connecting to github with
