@@ -49,7 +49,7 @@
 
 + [Data Science at the Command Line](https://www.datascienceatthecommandline.com/)
 + [The Unix Workbench](https://seankross.com/the-unix-workbench/)
-
++ [鸟哥的Linux私房菜](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/index.html)
 
 ## Visualization
 
