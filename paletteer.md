@@ -1,7 +1,3 @@
----
-title: "Collection of Color Palettes"
-output: html_document
----
 
 #  筛选收集配色方案
 
