@@ -108,6 +108,7 @@ for (i in 1:length(color_15)) {
   dev.off()
 }
 ```
+
 ![](./images/color_49.png)
 
 经筛选7, 10, 12, 14, 22, 33 比较符合要求, 使用`pals::pal.bands`来展示colored bands
@@ -122,6 +123,7 @@ pals::pal.bands( ## show color
     labels = names(color_15)[c(7, 10, 12)]
 )
 ```
+
 ![](./images/paletteer_1.png)
 
 
@@ -136,10 +138,4 @@ pals::pal.bands(
 ```
 
 ![](./images/paletteer_2.png)
-
-
-
-
-
-
 
