@@ -65,3 +65,7 @@
 + Computational approaches to predict bacteriophage–host relationships
   + <https://academic.oup.com/femsre/article/40/2/258/2570202>
   + <https://github.com/linsalrob/PhageHosts>
+ 
++ Halophilic microbial community compositional shift after a rare rainfall in the Atacama Desert
+  + <https://www.nature.com/articles/s41396-019-0468-y>
+  + <https://github.com/bxlab/timeline_paper>
